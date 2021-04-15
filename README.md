@@ -1,1 +1,0 @@
-# Customer-Segmentaion-Mall-Data
